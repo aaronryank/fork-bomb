@@ -5,3 +5,4 @@ Current languages:
 
  - C
  - Assembly
+ - Bash
