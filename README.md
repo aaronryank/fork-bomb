@@ -14,3 +14,9 @@ Current languages:
  - Ruby
  - Java
  - HTML
+ - erlang
+ - Go
+ - Lua
+ - PHP
+ - Rust
+ - Scheme
