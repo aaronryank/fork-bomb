@@ -5,3 +5,5 @@ Current languages:
 
  - C
  - Assembly
+ - Perl
+ - Python
