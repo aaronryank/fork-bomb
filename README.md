@@ -1,5 +1,5 @@
 # Fork Bomb
-fork bombs in every language.
+fork bombs in every popular supported language.
 
 Current languages:
 
