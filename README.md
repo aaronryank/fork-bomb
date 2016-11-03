@@ -8,3 +8,8 @@ Current languages:
  - Perl
  - Python
  - Bash
+ - Haskell
+ - Node.js
+ - Lisp
+ - Ruby
+ - Java
