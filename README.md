@@ -7,3 +7,4 @@ Current languages:
  - Assembly
  - Perl
  - Python
+ - Bash
