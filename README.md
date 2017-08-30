@@ -3,22 +3,22 @@ fork bombs in lots of different languages. Please fork (ba dum crash) and contri
 
 Current languages:
 
- - C
  - Assembly
- - Perl
- - Python
  - Bash
- - Haskell
- - Node.js
- - Lisp
- - Ruby
- - Java
- - HTML
+ - C
+ - C++
  - erlang
  - Go
+ - Haskell
+ - HTML
+ - Java
+ - Lisp
  - Lua
+ - Node.js
  - Perl
  - PHP
+ - Python
+ - Ruby
  - Rust
  - Scheme
- - C++
+ - Visual Basic
