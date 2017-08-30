@@ -1,5 +1,5 @@
 # Fork Bomb
-fork bombs in every popular supported language.
+fork bombs in lots of different languages. Please fork (ba dum crash) and contribute.
 
 Current languages:
 
@@ -17,6 +17,7 @@ Current languages:
  - erlang
  - Go
  - Lua
+ - Perl
  - PHP
  - Rust
  - Scheme
