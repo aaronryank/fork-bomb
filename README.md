@@ -22,3 +22,4 @@ Current languages:
  - Rust
  - Scheme
  - Visual Basic
+ - Win32 x86 FASM
