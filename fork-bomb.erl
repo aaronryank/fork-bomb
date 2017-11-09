@@ -1,4 +1,4 @@
-%% escript bomb.erl +P 134217727
+%% escript fork-bomb.erl +P 134217727
 
 -module(bomb).
 -export([loop/0]).
