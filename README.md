@@ -7,6 +7,7 @@ Current languages:
  - Bash
  - C
  - C++
+ - C#
  - erlang
  - Go
  - Haskell
