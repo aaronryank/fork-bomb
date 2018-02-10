@@ -24,3 +24,4 @@ Current languages:
  - Scheme
  - Visual Basic
  - Win32 x86 FASM
+ - R
