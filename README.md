@@ -5,23 +5,27 @@ Current languages:
 
  - Assembly
  - Bash
+ - Batch
+ - Brainfuck
  - C
  - C++
  - C#
- - erlang
+ - Erlang
+ - FASM
  - Go
  - Haskell
  - HTML
  - Java
+ - JavaScript
  - Lisp
  - Lua
- - Node.js
- - Perl
+ - Microsoft Access
  - PHP
+ - Perl
  - Python
+ - R
  - Ruby
  - Rust
  - Scheme
+ - Shell
  - Visual Basic
- - Win32 x86 FASM
- - R
