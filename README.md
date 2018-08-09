@@ -3,6 +3,7 @@ fork bombs in lots of different languages. Please fork (ba dum crash) and contri
 
 Current languages:
 
+ - Ada
  - Assembly
  - Bash
  - Batch
@@ -10,6 +11,7 @@ Current languages:
  - C
  - C++
  - C#
+ - C# (.Net Core) under Linux
  - Erlang
  - FASM
  - Go
