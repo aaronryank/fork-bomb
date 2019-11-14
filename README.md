@@ -4,6 +4,7 @@ fork bombs in lots of different languages. Please fork (ba dum crash) and contri
 Current languages:
 
  - Assembly
+ - AWK
  - Bash
  - Batch
  - Brainfuck
