@@ -31,4 +31,4 @@ Current languages:
  - Rust
  - Scheme
  - Shell
- - Visual Basic
+ - VBScript
