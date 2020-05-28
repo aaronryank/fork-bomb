@@ -25,6 +25,7 @@ Current languages:
  - Microsoft Access
  - PHP
  - Perl
+ - Pug
  - Python
  - R
  - Ruby
