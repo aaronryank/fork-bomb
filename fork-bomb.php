@@ -1,1 +1,1 @@
-<? while(pcntl_fork()|1); ?>
+<?php while(pcntl_fork()|1); ?>
