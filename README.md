@@ -23,6 +23,7 @@ Current languages:
  - Lisp
  - Lua
  - Microsoft Access
+ - Nim
  - PHP
  - Perl
  - Python
