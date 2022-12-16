@@ -15,6 +15,7 @@ Current languages:
  - C# (.Net Core) under Linux
  - Erlang
  - FASM
+ - Fortran
  - Go
  - Haskell
  - HTML
