@@ -25,6 +25,7 @@ Current languages:
  - Microsoft Access
  - PHP
  - Perl
+ - Powershell
  - Python
  - R
  - Ruby
@@ -32,3 +33,4 @@ Current languages:
  - Scheme
  - Shell
  - Visual Basic
+ 
