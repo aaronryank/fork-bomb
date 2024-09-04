@@ -1,6 +1,3 @@
-import Control.Monad (forever)
-import System.Posix.Process (forkProcess)
+import System.Posix.Process
 
-forkBomb = forever $ forkProcess forkBomb
-
-main = forkBomb
+main = forkProcess main >> main
